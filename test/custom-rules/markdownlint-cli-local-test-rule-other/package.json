@@ -1,0 +1,6 @@
+{
+    "name": "markdownlint-cli-local-test-rule-other",
+    "main": "./index.js",
+    "version": "0.0.1",
+    "private": true
+}
