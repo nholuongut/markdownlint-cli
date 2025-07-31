@@ -167,7 +167,7 @@ To run `markdownlint-cli` as part of a [pre-commit][pre-commit] workflow, add so
 * [PayPal.me](https://www.paypal.com/paypalme/nholuongut)
 
 ![](https://i.imgur.com/waxVImv.png)
-![](Donate.png)
+![](Donate.jpg)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
