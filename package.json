@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/nholuongut/markdownlint-cli#readme",
   "dependencies": {
-    "commander": "~12.1.0",
+    "commander": "~13.1.0",
     "get-stdin": "~9.0.0",
     "glob": "~11.0.0",
     "ignore": "~6.0.2",
